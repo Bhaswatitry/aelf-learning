@@ -1,1 +1,1 @@
-# aelf-learning
+# self-learning
